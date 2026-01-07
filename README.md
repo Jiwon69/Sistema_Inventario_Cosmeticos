@@ -68,6 +68,3 @@ Incluye scripts SQL para creación de tablas y relaciones.
 - Visual Studio  
 - Git & GitHub  
 
----
-
-git clone https://github.com/TU-USUARIO/sistema-inventario.git
